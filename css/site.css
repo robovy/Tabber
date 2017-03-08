@@ -8,3 +8,11 @@ header {
     border-top: solid 3px rgb(255, 163, 3);    
     border-bottom: solid 1px rgb(204, 204, 204);
 }
+
+.header-search-bar {
+    height: 35px;
+    margin: 10px;
+    padding: 0 10px;
+    border: 0;
+    font-size: 16px;
+}
