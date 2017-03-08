@@ -4,4 +4,6 @@ body {
 
 header {
     border-top: solid 3px orange;
+    height: 50px;
+    border-bottom: solid 1px #ccc;
 }
